@@ -1,0 +1,52 @@
+/* 3. body: đổi font và kích thước chữ */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* 4. header: đổi màu nền */
+header {
+  background-color: #007acc;
+  padding: 20px;
+  color: white;
+}
+
+/* 5. nav: đổi màu nền */
+nav {
+  background-color: #004466;
+  padding: 10px;
+}
+
+/* 6. main: đổi màu nền và cỡ chữ */
+main {
+  background-color: #f9f9f9;
+  font-size: 18px;
+  padding: 20px;
+}
+
+/* 7. footer: đổi màu nền */
+footer {
+  background-color: #333;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+/* 8. li: thay đổi kiểu hiển thị và độ rộng */
+li {
+  display: inline-block;
+  width: 100px;
+  margin-right: 10px;
+}
+
+/* 9. h1: căn giữa, đổi font và màu */
+h1 {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  color: #990000;
+}
+
+/* 10. p: chỉnh line-height */
+p {
+  line-height: 1.6;
+}
